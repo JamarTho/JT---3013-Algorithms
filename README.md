@@ -9,8 +9,8 @@ Algorithms Spring 2025
 
 #### Image:
 
-<img src=![JT1](https://github.com/user-attachments/assets/b8486a9c-6229-43bc-b70f-3155c35cb49c) width=150>
+[JT1](https://github.com/user-attachments/assets/b8486a9c-6229-43bc-b70f-3155c35cb49c)
 
 #### Avatar:
 
-<img src="![Picture1](https://github.com/user-attachments/assets/708c35c8-0628-4bd8-ac6c-38474504b09b)" width="75">
+![Picture1](https://github.com/user-attachments/assets/708c35c8-0628-4bd8-ac6c-38474504b09b)
