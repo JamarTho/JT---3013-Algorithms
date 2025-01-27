@@ -7,12 +7,10 @@ Algorithms Spring 2025
 
 #### Email: jbthomas0308@my.msutexas.edu
 
-#### Website: https://en.wikipedia.org/wiki/Albert_Einstein
-
 #### Image:
 
-<img src="https://images2.imgbox.com/b3/d5/09sLKh1N_o.png" width="200">
+<img src="![JT1](https://github.com/user-attachments/assets/b8486a9c-6229-43bc-b70f-3155c35cb49c)" width="200">
 
 #### Avatar:
 
-<img src="https://images2.imgbox.com/ae/bd/tERTAGTL_o.png" width="75">
+<img src="![Picture1](https://github.com/user-attachments/assets/708c35c8-0628-4bd8-ac6c-38474504b09b)" width="75">
