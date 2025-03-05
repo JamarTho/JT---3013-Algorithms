@@ -17,7 +17,7 @@
 
 **Final AVL Tree:**  
 
-![AVL Tree](Image/AVL TREE.png)
+![AVL Tree](Image/AVL_TREE.png)
 
 
 
