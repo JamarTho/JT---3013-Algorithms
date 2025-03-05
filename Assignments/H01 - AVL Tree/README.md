@@ -16,8 +16,7 @@
 8. Insert 27 → **RL Rotation at 25**
 
 **Final AVL Tree:**  
-
-![AVL Tree](Image/AVL_TREE.png)
+![AVL Tree](Assignments/H01%20-%20AVL%20Tree/Image/AVL%20TREE.png)
 
 
 
